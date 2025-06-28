@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Yesteryear-Regular
+font link: https://fonts.google.com/specimen/Yesteryear
+font author: Astigmatic
+font author site: http://www.astigmatic.com/
+Slogan Font: Fanwood Text.otf
+
+icon designer: Catherine Please
+icon designer link: /creator/CatherinePlease/
+        
+{"bg":"#E87D22","icon":"#762A0C","font":"#ffffff","slogan":"#ffffff"}
+      
