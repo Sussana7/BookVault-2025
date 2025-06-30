@@ -84,4 +84,4 @@ To run the project locally:
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/Sussana7/BookVault-2025.git
